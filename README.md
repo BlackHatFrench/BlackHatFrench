@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 
 Website www.blackhatfrench.com
 Dedicated to cybersecurity with tools for testers 
+#crypter #binder #malware #FUD #downloader
 
 (https://github.com/user-attachments/assets/873fa122-65b6-408d-b5c6-39ecc395588a)
