@@ -21,3 +21,6 @@ Dedicated to cybersecurity with tools for testers
 #crypter #binder #malware #FUD #downloader
 
 (https://github.com/user-attachments/assets/873fa122-65b6-408d-b5c6-39ecc395588a)
+
+
+![XWorm for me](https://github.com/user-attachments/assets/9ebd29ab-e510-41f4-9d98-4b3ce7464716)
