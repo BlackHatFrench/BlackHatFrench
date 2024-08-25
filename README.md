@@ -24,3 +24,6 @@ Dedicated to cybersecurity with tools for testers
 
 
 ![XWorm for me](https://github.com/user-attachments/assets/9ebd29ab-e510-41f4-9d98-4b3ce7464716)
+<img width="362" alt="crypt" src="https://github.com/user-attachments/assets/f4865b8b-8fe0-4984-b23e-bb950ba02cec">
+#FUD #botnet #crypter
+
